@@ -159,7 +159,7 @@ export class MainTab extends React.Component {
                                         />
 
                                     </div></div>
-                            <div className="row">
+                            <div className="">
                                 <input type="submit"
                                     className="btn btn-success marginTop "
                                     value="REPORT TAB"

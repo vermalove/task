@@ -1,0 +1,57 @@
+
+.header {
+  background-color: #282c34;
+  /* min-height: 50; */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 1vmin);
+  color: white;
+}
+.mainTabHeader{
+
+  background-color: #686f77;
+  /* min-height: 50; */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 1vmin);
+  color: white;
+}
+.customContainer{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 3rem;
+
+}
+.marginTop{
+
+  font-family: "Sans-serif";
+  margin-top: .5rem;
+}
+.styleFont{
+  font-family: "Arial";
+}
+.reportHeader{
+
+  background-color: #fff;
+  /* min-height: 50; */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 1vmin);
+  color: #686f77;
+}
+.chart{
+width: 47%
+}
+.chartVal{    margin-top: -26.5%;
+  margin-bottom: 29.5%;
+
+  
+}
